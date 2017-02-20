@@ -1059,7 +1059,7 @@
 	#nav a {
 		position: relative;
 		display: inline-block;
-		color: #ffffff;
+		color: #6698FF;
 		width: 1em;
 		height: 1em;
 		line-height: 0.9em;
@@ -1243,7 +1243,7 @@
 				#nav a {
 					font-size: 2.5em;
 					margin: 0 0.25em 0 0.25em;
-					opacity: 0;
+					opacity: 0.75;
 					outline: 0;
 					-moz-transition: opacity .25s ease-in-out;
 					-webkit-transition: opacity .25s ease-in-out;
@@ -1275,7 +1275,7 @@
 						display: block;
 						position: absolute;
 						background: #222222;
-						color: #B0E0E6;
+						color: #FFFFFF;
 						top: -2.75em;
 						font-size: 0.3em;
 						height: 2.25em;
