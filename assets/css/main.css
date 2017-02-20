@@ -1281,7 +1281,7 @@
 						height: 2.25em;
 						line-height: 2.25em;
 						left: 50%;
-						opacity: 0.5;
+						opacity: 0;
 						-moz-transition: opacity .25s ease-in-out;
 						-webkit-transition: opacity .25s ease-in-out;
 						-ms-transition: opacity .25s ease-in-out;
