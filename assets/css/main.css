@@ -1243,7 +1243,7 @@
 				#nav a {
 					font-size: 2.5em;
 					margin: 0 0.25em 0 0.25em;
-					opacity: 0.35;
+					opacity: 0;
 					outline: 0;
 					-moz-transition: opacity .25s ease-in-out;
 					-webkit-transition: opacity .25s ease-in-out;
@@ -1275,13 +1275,13 @@
 						display: block;
 						position: absolute;
 						background: #222222;
-						color: #ffffff;
+						color: #B0E0E6;
 						top: -2.75em;
 						font-size: 0.3em;
 						height: 2.25em;
 						line-height: 2.25em;
 						left: 50%;
-						opacity: 0.5;
+						opacity: 0.3;
 						-moz-transition: opacity .25s ease-in-out;
 						-webkit-transition: opacity .25s ease-in-out;
 						-ms-transition: opacity .25s ease-in-out;
