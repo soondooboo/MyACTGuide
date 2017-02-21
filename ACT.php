@@ -2,7 +2,7 @@
 
 if ( ! empty($_POST) ) {
 
-$mysqli = new mysqli('localhost', 'root', '', 'actcontactform');
+$mysqli = new mysqli('localhost', 'root', '', 'actcontactform'); /*Be sure to add a password in the empty string*/
 
 if ($mysqli->connect_error) {
 	die('Could not connect: ' . $mysqli->connect_errno . ': '. $mysqli->connect_error );
