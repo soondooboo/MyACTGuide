@@ -2,7 +2,7 @@
 
 if ( ! empty($_POST) ) {
 
-$mysqli = new mysqli('localhost', 'root', 'Meaning557134', 'actcontactform');
+$mysqli = new mysqli('localhost', 'root', '', 'actcontactform');
 
 if ($mysqli->connect_error) {
 	die('Could not connect: ' . $mysqli->connect_errno . ': '. $mysqli->connect_error );
