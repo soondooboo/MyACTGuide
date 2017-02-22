@@ -18,7 +18,7 @@ $insert = $mysqli->query($sql);
 
 if ( $insert ) {
 	echo "Thank you for your feedback!";
-	/* echo "Success! Row ID: {$mysqli->insert_id}"; */
+	
 } else {
 	die("Error: {$mysqli->errno} : {$mysqli->error}");
 }
