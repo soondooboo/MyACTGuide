@@ -17,7 +17,7 @@ $insert = $mysqli->query($sql);
 
 
 if ( $insert ) {
-	echo "Thank you for your feedback!";
+	echo "Thank you for reaching out!";
 	
 } else {
 	die("Error: {$mysqli->errno} : {$mysqli->error}");
