@@ -54,8 +54,8 @@
   		left: 50%;
   		transform: translate(-50%, -50%);
 		font-family: Georgia;
-		font-size: 100%;
-		opacity: 50%;
+		font-size: 200%;
+		opacity: 30%;
 		color: white;
 	}
 /* Box Model */
