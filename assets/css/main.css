@@ -1231,7 +1231,6 @@
 
 			header.major > p {
 				margin-top: 0;
-				text-align: center;
 			}
 
 			header.major > .date {
