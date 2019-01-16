@@ -1092,10 +1092,6 @@
 		position: relative;
 	}
 	
-	#main > .panel {
-			padding: 8rem 8rem 6rem 8rem ;
-			}
-
 			#main > .panel header.major > .date {
 				margin-top: -2rem;
 			}
@@ -1117,7 +1113,6 @@
 				left: 0;
 				width: 45em;
 			}
-
 /* Me */
 
 	#me .pic {
