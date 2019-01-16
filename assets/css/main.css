@@ -63,17 +63,7 @@
 	#main > .blog header.major > .date {
 		text-align: center;
 	}
-	
-	header.major > .date:before, header.major > .date:after {
-					content: '';
-					display: block;
-					position: absolute;
-					top: 50%;
-					width: calc(50% - 6rem);
-					border-top: solid 2px;
-				}
-
-
+		
 	#main > .blog header.major >.h1 {
 		text-align:center;
 	}
