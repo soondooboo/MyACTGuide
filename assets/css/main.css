@@ -1230,11 +1230,13 @@
 
 			header.major > p {
 				margin-top: 0;
+				text-align: left;
 			}
 
 			header.major > .date {
 				font-size: 1rem;
 				margin: 0 0 4rem 0;
+				text-align: center;
 			}
 
 				header.major > .date:before, header.major > .date:after {
