@@ -58,6 +58,15 @@
 		opacity: 30%;
 		color: white;
 	}
+
+/* Blog */
+	#blog > .date {
+		text-align: center;
+	}
+
+	#blog > .h1 {
+		text-align:center;
+	}
 /* Box Model */
 
 	*, *:before, *:after {
