@@ -71,7 +71,12 @@
 	#main > .blog.featured {
 		text-align: center;
 	}
-
+	
+	blog > .p1 {
+		margin margin-left: 2em;
+      		text-indent: -2em;
+   	}
+	
 /* Box Model */
 
 	*, *:before, *:after {
