@@ -67,6 +67,11 @@
 	#main > .blog header.major >.h1 {
 		text-align:center;
 	}
+
+	#main > .blog.featured {
+		text-align: center;
+	}
+
 /* Box Model */
 
 	*, *:before, *:after {
