@@ -82,11 +82,13 @@
 		text-align: center;
 	}
 	
-	blog p2 {
+	indent.a {
 		margin left: 10%;
    	}
 
-
+	indent.b {
+		margin left: 10%;
+	}
 
 	
 	
