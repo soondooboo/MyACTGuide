@@ -60,7 +60,7 @@
 	}
 
 /* Blog */
-	#main > .blog header.major > .date {
+	#main > .blog > .date {
 		width: 100%;
 		text-align: center;
 		border-bottom: 0.2em solid #000;
@@ -74,7 +74,7 @@
     	padding:0 10px; 
 	}
 		
-	#main > .blog header.major >.h1 {
+	#main > .blog >.h1 {
 		text-align:center;
 	}
 
