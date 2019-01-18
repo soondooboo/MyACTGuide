@@ -63,7 +63,7 @@
 	#main > .blog header.major > .date {
 		width: 100%;
 		text-align: center;
-		border-bottom: 1em solid #000;
+		border-bottom: 0.2em solid #000;
 		line-height: 0.1em;
 		margin:10px 0px 20px;
 
