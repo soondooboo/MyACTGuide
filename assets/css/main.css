@@ -61,7 +61,16 @@
 
 /* Blog */
 	#main > .blog header.major > .date {
+		width: 100%;
 		text-align: center;
+		border-bottom: 1em solid #000;
+		line-height: 0.1em;
+
+	}
+
+	.date span { 
+    	background:#ffffff; 
+    	padding:0 10px; 
 	}
 		
 	#main > .blog header.major >.h1 {
@@ -77,18 +86,9 @@
       		text-indent: -2em;
    	}
 
-	date {
-   	width: 100%; 
-   	text-align: center; 
-   	border-bottom: 1px solid #000; 
-   	line-height: 0.1em;
-   	margin: 10px 0 20px; 
-	} 
 
-	date span { 
-    	background:#ffffff; 
-    	padding:0 10px; 
-	}
+
+	
 	
 /* Box Model */
 
