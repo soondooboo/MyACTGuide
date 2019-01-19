@@ -951,7 +951,7 @@
 /* Image */
 
 	.image {
-		display: inline-block;
+		display: block;
 	}
 
 		.image img {
