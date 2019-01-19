@@ -953,6 +953,7 @@
 	.image {
 		display: block;
 		float: left;
+		width: 100%;
 	}
 
 		.image img {
