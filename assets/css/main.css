@@ -27,7 +27,7 @@
 	}
 
 	ol, ul {
-		list-style: none;
+		list-style: decimal;
 	}
 
 	blockquote, q {
@@ -49,9 +49,7 @@
 	}
 
 	.centered {
-  		flex: 1 1 auto;
-  		margin: auto;
-		/* position: relative;
+  		position: relative;
   		top: 50%;
   		left: 50%;
   		transform: translate(-50%, -50%); */
@@ -106,7 +104,7 @@
 	}
 
 	.row > * {
-		float: left;
+		float: center;
 		-moz-box-sizing: border-box;
 		-webkit-box-sizing: border-box;
 		box-sizing: border-box;
@@ -114,7 +112,7 @@
 
 	.row:after, .row:before {
 		content: '';
-		display: flex;
+		display: block;
 		text-align: center;
 		clear: both;
 		height: 0;
