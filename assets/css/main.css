@@ -57,6 +57,7 @@
 		font-size: 200%;
 		opacity: 15%;
 		color: white;
+		text-align: center;
 	}
 
 /* Blog */
@@ -961,6 +962,7 @@
 		.image.fit {
 			display: block;
 			width: 100%;
+			float: left;
 		}
 
 		.image.featured {
