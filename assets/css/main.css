@@ -49,13 +49,15 @@
 	}
 
 	.centered {
-  		position: relative;
+  		flex: 1 1 0;
+  		margin: auto;
+		/* position: relative;
   		top: 50%;
   		left: 50%;
-  		transform: translate(-50%, -50%);
+  		transform: translate(-50%, -50%); */
 		font-family: Georgia;
 		font-size: 200%;
-		opacity: 30%;
+		opacity: 15%;
 		color: white;
 	}
 
@@ -112,7 +114,8 @@
 
 	.row:after, .row:before {
 		content: '';
-		display: block;
+		display: flex;
+		text-align: center;
 		clear: both;
 		height: 0;
 	}
