@@ -28,6 +28,7 @@
 
 	ol, ul {
 		list-style: decimal;
+		text-align: center;
 	}
 
 	blockquote, q {
@@ -944,10 +945,7 @@
 			margin-bottom: 0;
 		}
 
-	header > p {
-		color: #aaa;
-	}
-
+	
 /* Image */
 
 	.image {
