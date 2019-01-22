@@ -50,7 +50,7 @@
 	}
 
 	.centered {
-  		position: relative;
+  		position: absolute;
   		top: 50%;
   		left: 50%;
   		transform: translate(-50%, -50%); */
@@ -59,7 +59,7 @@
 		opacity: 15%;
 		color: white;
 		text-align: center;
-		height: 10%;
+	
 	}
 
 /* Blog */
