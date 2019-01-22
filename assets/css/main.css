@@ -954,6 +954,12 @@
 		width: 100%;
 	}
 
+		.image a {
+			display: block;
+			float: left;
+			width: 100%;
+		}
+
 		.image img {
 			display: block;
 			width: 100%;
