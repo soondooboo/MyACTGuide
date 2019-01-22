@@ -55,11 +55,10 @@
   		left: 50%;
   		transform: translate(-50%, -50%); */
 		font-family: Georgia;
-		font-size: 1.5em;
+		font-size: 2em;
 		opacity: 15%;
 		color: white;
 		text-align: center;
-		height: 1em;
 		width: 1em;
 	
 	}
