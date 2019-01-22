@@ -51,15 +51,13 @@
 
 	.centered {
   		position: relative;
-  		top: 50%;
-  		left: 50%;
-  		transform: translate(-50%, -50%); */
+    		left: 50%;
+  		transform: translate(-500%, -50%); */
 		font-family: Georgia;
-		font-size: 2em;
+		font-size: 3 em;
 		opacity: 15%;
 		color: white;
-		text-align: center;
-		width: 1em;
+		width: 1%;
 	
 	}
 
